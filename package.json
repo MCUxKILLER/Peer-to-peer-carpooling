@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview --host 0.0.0.0 --port $PORT",
+    "preview": "vite preview --host 0.0.0.0",
     "start": "nodemon ./server/server.js",
     "start-all": "concurrently \"npm run preview\" \"node ./server/server.js\" \"node ./server/Payment.js\""
   },
