@@ -1,7 +1,5 @@
 # React + Vite
 
-Go Check Out Our site - https://peer-to-peer-carpooling.onrender.com
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
